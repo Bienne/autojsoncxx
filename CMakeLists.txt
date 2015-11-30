@@ -16,7 +16,7 @@ set(LIB_VERSION_STRING "${LIB_MAJOR_VERSION}.${LIB_MINOR_VERSION}.${LIB_PATCH_VE
 
 # Perform tests
 enable_testing()
-ADD_SUBDIRECTORY(test)
+#####ADD_SUBDIRECTORY(test)
 
 # Header installation
 INSTALL(
